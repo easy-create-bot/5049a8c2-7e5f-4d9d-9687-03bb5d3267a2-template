@@ -1,8 +1,9 @@
 interface variableInfo {
-    value: string,
-    color?: string
-}
+    value: string;
+    color?: string;
+    }
 
-const variables: Record<string, variableInfo> = {}
+    const variables: Record<string, variableInfo> = {};
 
-export default variables
+    export default variables;
+    
